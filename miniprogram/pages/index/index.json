@@ -1,0 +1,14 @@
+{
+	"usingComponents": {
+		"mp-icon": "weui-miniprogram/icon/icon",
+		"mp-half-screen-dialog": "weui-miniprogram/half-screen-dialog/half-screen-dialog",
+		"mp-cells": "weui-miniprogram/cells/cells",
+    	"mp-cell": "weui-miniprogram/cell/cell"
+	},
+	"navigationBarTitleText": "平凡人纪念碑",
+	"backgroundTextStyle": "light",
+	"navigationBarBackgroundColor": "#000",
+  "enablePullDownRefresh":true,
+	"navigationBarTextStyle": "white",
+  "backgroundColor": "#000"
+}
